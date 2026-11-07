@@ -1,0 +1,38 @@
+{
+  "title": "Function return type",
+  "type": "line",
+  "indexAxis": "x",
+  "display_legend": true,
+  "labels": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "datasets": [
+    {
+      "label": "no",
+      "data": [
+        1343,
+        1306,
+        1069,
+        1048,
+        1035,
+        1002
+      ]
+    },
+    {
+      "label": "yes",
+      "data": [
+        0,
+        0,
+        309,
+        384,
+        362,
+        418
+      ]
+    }
+  ]
+}
